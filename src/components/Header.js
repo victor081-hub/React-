@@ -3,7 +3,7 @@ import NavComp from '../components/NavComp'
 import Search from '../components/Search'
 
 function Header() {
-  return (
+  return (bbb
     <div>
       <NavComp />
       <Search />
